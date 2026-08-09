@@ -521,13 +521,13 @@ Wedding website
         <p class="eyebrow">We're getting married</p>
 
         <h1>
-          Jessica
+          Hudson
           <span>and</span>
-          Michael
+          Matthew
         </h1>
 
-        <p class="date">October 10, 2027</p>
-        <p class="location">Sonoma, California</p>
+        <p class="date">September,3 2028</p>
+        <p class="location">Florence, Italy</p>
 
         <a href="#rsvp" class="btn">RSVP Now</a>
 
